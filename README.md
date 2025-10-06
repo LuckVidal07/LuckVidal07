@@ -14,7 +14,7 @@
 Olá! Meu nome é Lucas e estou começando minha jornada como desenvolvedor. Sou apaixonado por tecnologia e estou sempre em busca de aprender novas habilidades e explorar novas tecnologias.
 
 - 🌱 Atualmente estou aprendendo Javascript / html / css.
-- 📫 Você pode me encontrar pelo email: luckvital17@gmail.com
+- 📫 Você pode me encontrar pelo email: lucasvidalbr07@gmail.com
 <br></br>
 
 <div align="center" alt= "status github">
