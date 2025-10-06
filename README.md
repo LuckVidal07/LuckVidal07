@@ -19,7 +19,7 @@ Olá! Meu nome é Lucas e estou começando minha jornada como desenvolvedor. Sou
 
 <div align="center" alt= "status github">
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckVidal07&show_icons=true&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckVidal07&show_icons=true&theme=dracula&cache_seconds=3600&date=2025-10-06)
 
 </div>
 
