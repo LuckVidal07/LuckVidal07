@@ -31,7 +31,7 @@ Olá! Sou o **Lucas**, um entusiasta focado no ecossistema PHP.
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckVidal07&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer&text=Estudando,%20errando%20e%20evoluindo&fontSize=20"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuckVidal07/LuckVidal07/output/github-contribution-grid-snake-dark.svg">
